@@ -1,0 +1,6 @@
+univ.db
+Python Issues.txt
+.venv/
+Database.py
+*.pyc
+.DS_Store
